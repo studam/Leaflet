@@ -1,4 +1,4 @@
-# Leaflet Homework: Visualizing Data with Leaflet
+# Leaflet Challenge: Visualizing Data with Leaflet
 
 ## Background
 
@@ -68,11 +68,6 @@ In this step, you will:
 
 - - -
 
-### Assessment
-
-Your final product will be assessed according to [this grading rubric](Leaflet_Grading_Rubric.pdf)
-
-**Good luck!**
 
 ## Rubric
 
